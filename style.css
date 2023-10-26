@@ -104,18 +104,18 @@ h1 {
 }
 
 @media(min-width: 768px) {
-/*    h1 {
+    h1 {
         font-size: 4.8rem;
-    }*/
+    }
     
     .button {
         font-size: 3.5rem;
     }
 }
 
-/*@media only screen and (hover: none) and (pointer: coarse) {
+@media only screen and (hover: none) and (pointer: coarse) {
     .button {
         color: rgba(0, 0, 0, 0);
         -webkit-text-stroke-width: 0px;
     }
-}*/
+}
