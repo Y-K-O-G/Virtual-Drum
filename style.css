@@ -104,9 +104,9 @@ h1 {
 }
 
 @media(min-width: 768px) {
-    h1 {
+/*    h1 {
         font-size: 4.8rem;
-    }
+    }*/
     
     .button {
         font-size: 3.5rem;
